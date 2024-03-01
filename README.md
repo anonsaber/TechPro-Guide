@@ -1,2 +1,2 @@
-# Personal-Infrastructure
+# Technology Professional Guide
 Personal Infrastructure
